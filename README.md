@@ -6,8 +6,6 @@ Este es un proyecto template en Python que puedes usar como base para tus propio
 
 ```
 📦python-project
- ┣ 📂.vscode
- ┃ ┗ 📜settings.json
  ┣ 📂data
  ┃ ┣ 📜mock_data.csv
  ┃ ┗ 📜mock_data.txt
